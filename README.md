@@ -44,6 +44,9 @@ Installation guide and project setup for pyselenium and robot framework
   > Robot Framework  
   > Robot Framework-Selenium Library
 
-* Install ***Intellibot @SeleniumLibrary Patched*** plugin in your PyCharm for smart editing with Robot Framework
+* Install ***IntelliBot #patched*** plugin in your PyCharm for smart editing with Robot Framework
+
+  > If there's any IDE exception that might be because of the version incompatibility  
+  > Alternate solution would be to download the ***intellibot.jar*** file from [IntelliBot](https://github.com/lte2000/intellibot) and manually add the plugin from disk. 
 
 * Restart your IDE to apply these changes
